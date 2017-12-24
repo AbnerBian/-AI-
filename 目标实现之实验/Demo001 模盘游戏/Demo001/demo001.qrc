@@ -1,0 +1,6 @@
+<RCC>
+  <qresource>
+    <file>Resources/roleBlue.png</file>
+    <file>Resources/roleRed.png</file>
+  </qresource>
+</RCC>
